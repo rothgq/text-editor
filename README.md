@@ -2,7 +2,10 @@
 
 # Text-Editor
 
+
 Note taking text editor that runs offline in the browser.
+https://text-editing-offline.onrender.com
+
 ![alt text](image.png)
 
 ## Navigation
